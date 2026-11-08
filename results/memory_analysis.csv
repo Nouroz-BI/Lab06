@@ -1,0 +1,3 @@
+method,trainable_parameters,total_parameters,predicted_weights_bytes,predicted_gradients_bytes,predicted_optimizer_bytes,predicted_training_state_bytes,measured_weights_bytes,measured_gradients_bytes,measured_optimizer_bytes,measured_training_state_bytes,training_seconds,peak_cuda_bytes
+full,134515008,134515008,538060032,538060032,1076120064,2152240128,538060032,538060032,1076120064,2152240128,10.617089033126831,
+lora,921600,135436608,541746432,3686400,7372800,552805632,541746432,3686400,7372800,552805632,5.124156951904297,

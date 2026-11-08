@@ -1,0 +1,7 @@
+mode,rank,learning_rate,validation_accuracy
+full,16,1e-05,0.7
+full,16,5e-05,0.774
+full,16,0.0001,0.81
+lora,16,0.0003,0.694
+lora,16,0.001,0.73
+lora,16,0.003,0.72

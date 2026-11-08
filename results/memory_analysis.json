@@ -1,0 +1,32 @@
+[
+    {
+        "method": "full",
+        "trainable_parameters": 134515008,
+        "total_parameters": 134515008,
+        "predicted_weights_bytes": 538060032,
+        "predicted_gradients_bytes": 538060032,
+        "predicted_optimizer_bytes": 1076120064,
+        "predicted_training_state_bytes": 2152240128,
+        "measured_weights_bytes": 538060032,
+        "measured_gradients_bytes": 538060032,
+        "measured_optimizer_bytes": 1076120064,
+        "measured_training_state_bytes": 2152240128,
+        "training_seconds": 10.617089033126831,
+        "peak_cuda_bytes": null
+    },
+    {
+        "method": "lora",
+        "trainable_parameters": 921600,
+        "total_parameters": 135436608,
+        "predicted_weights_bytes": 541746432,
+        "predicted_gradients_bytes": 3686400,
+        "predicted_optimizer_bytes": 7372800,
+        "predicted_training_state_bytes": 552805632,
+        "measured_weights_bytes": 541746432,
+        "measured_gradients_bytes": 3686400,
+        "measured_optimizer_bytes": 7372800,
+        "measured_training_state_bytes": 552805632,
+        "training_seconds": 5.124156951904297,
+        "peak_cuda_bytes": null
+    }
+]
